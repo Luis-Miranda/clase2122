@@ -1,0 +1,31 @@
+.iconoWaffle{
+    width: 25px;
+    height: 25px;
+}
+
+
+.iconoLogin{
+    width:30px;
+    height: 30px;
+}
+
+.mid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logoGoogle{
+    width: 360px;
+}
+
+.buscador{
+    border-radius: 120px;
+}
+
+.bottom{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
